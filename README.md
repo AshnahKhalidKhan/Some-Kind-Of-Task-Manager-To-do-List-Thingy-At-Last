@@ -21,6 +21,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - GRE Alliya appointment
 - DAA meeting link making/sharing
 - DAA resources pack sharing
+- DAA quiz questions
+- DAA problem set
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
 - 3-pin plug idea
