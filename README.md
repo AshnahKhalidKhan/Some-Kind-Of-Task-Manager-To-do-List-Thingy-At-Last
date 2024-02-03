@@ -9,12 +9,12 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
-- Fee voucher print
+- ~Fee voucher print~
 - Fee voucher pay
 - Water bill pay
-- Aapa scan pages
+- ~Aapa scan pages~
 - Aapa email Jang
-- Aapa send scans to Namrah baji
+- ~Aapa send scans to Namrah baji~
 - ISE assignment
 - ISE Coursera course
 - ISE Imran Khan appointment
