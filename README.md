@@ -5,6 +5,9 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Witr qaza~
 - Qaza namazein list...
 - Qaza rozay...
+- Maham permission for ISE group additions
+- Minal permission for DevOps group
+- DevOps group finalization permission
 - ~Securiti.ai test~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
