@@ -40,6 +40,6 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Poetry reading "The Poet"
 - Musab return "The Art of War"
 - Techlogix apply
-- LeetCode GCD of Strings question
+- ~LeetCode GCD of Strings question~
 - Resume update
 - LinkedIn update
