@@ -5,6 +5,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Witr qaza~
 - Qaza namazein list...
 - Qaza rozay...
+- Clean laptop open Github repositories
 - Maham permission for ISE group additions
 - Minal permission for DevOps group
 - DevOps group finalization permission
@@ -41,5 +42,9 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Musab return "The Art of War"
 - Techlogix apply
 - ~LeetCode GCD of Strings question~
-- Resume update
-- LinkedIn update
+- Make Web Developer resume
+- Make App Developer resume
+- Make Software Engineer resume
+- Make DevOps Engineer resume
+- Make MNCs IT person resume
+- LinkedIn add projects
