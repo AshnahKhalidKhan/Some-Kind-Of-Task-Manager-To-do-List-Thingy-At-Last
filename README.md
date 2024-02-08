@@ -1,4 +1,4 @@
-# Some-Kind-Of-Task-Manager-To-do-List-Thingy-At-Last-
+# Some-Kind-Of-Task-Manager-To-do-List-Thingy-At-Last
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
@@ -6,19 +6,21 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Qaza namazein list...
 - Qaza rozay...
 - Clean laptop open Github repositories
-- Maham permission for ISE group additions
-- Minal permission for DevOps group
+- ~Maham permission for ISE group additions~
+- ~Minal permission for Software Architecture group~
 - DevOps group finalization permission
 - ~Securiti.ai test~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
 - ~Fee voucher print~
-- Fee voucher pay
-- Water bill pay
+- ~Fee voucher pay~
+- ~Water bill pay~
 - ~Aapa scan pages~
 - ~Aapa email Jang~
 - ~Aapa send scans to Namrah baji~
+- ~Aapa eye appointment~
+- Aapa Aga Khan appointment
 - ISE assignment
 - ~ISE Coursera course~
 - ISE Imran Khan appointment
@@ -33,6 +35,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~DAA resources pack sharing~
 - DAA quiz questions
 - DAA problem set
+- DAA problem set checking
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
 - 3-pin plug idea Rasib & Danial
