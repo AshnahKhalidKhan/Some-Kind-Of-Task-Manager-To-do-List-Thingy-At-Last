@@ -5,7 +5,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Witr qaza~
 - Qaza namazein list...
 - Qaza rozay...
-- Clean laptop open Github repositories
+- ~Clean laptop open Github repositories~
 - ~Maham permission for ISE group additions~
 - ~Minal permission for Software Architecture group~
 - DevOps group finalization permission
@@ -38,7 +38,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - DAA problem set checking
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
-- 3-pin plug idea Rasib & Danial
+- ~3-pin plug idea Rasib & Danial~
 - Poetry request for "Adab Aur Jazbaat"
 - Poetry get "The Brothers Karamazov"
 - Poetry reading "The Poet"
