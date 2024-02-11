@@ -3,6 +3,7 @@
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
 - ~Witr qaza~
+- Upload MIPS labs
 - Zuha return earphones
 - ~Qaza namazein list...~
 - Qaza Roza # 1
