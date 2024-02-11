@@ -3,8 +3,14 @@
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
 - ~Witr qaza~
-- Qaza namazein list...
-- Qaza rozay...
+- Zuha return earphones
+- ~Qaza namazein list...~
+- Qaza Roza # 1
+- Qaza Roza # 2
+- Qaza Roza # 3
+- Qaza Roza # 4
+- Qaza Roza # 5
+- Qaza Roza # 6
 - ~Clean laptop open Github repositories~
 - ~Maham permission for ISE group additions~
 - ~Minal permission for Software Architecture group~
@@ -51,3 +57,34 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Make DevOps Engineer resume
 - Make MNCs IT person resume
 - LinkedIn add projects
+- Fajr qaza
+- Fajr qaza
+- Zohar qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Zohar qaza
+- Isha qaza
+- Zohar qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Zohar qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Zohar qaza
+- Isha qaza
+- Isha qaza
+- Isha qaza
