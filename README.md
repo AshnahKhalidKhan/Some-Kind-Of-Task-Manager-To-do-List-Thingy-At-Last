@@ -3,7 +3,7 @@
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
 - ~Witr qaza~
-- Upload MIPS labs
+- ~Upload MIPS labs~
 - Zuha return earphones
 - ~Qaza namazein list...~
 - Qaza Roza # 1
@@ -46,11 +46,11 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
 - ~3-pin plug idea Rasib & Danial~
-- Poetry request for "Adab Aur Jazbaat"
-- Poetry get "The Brothers Karamazov"
-- Poetry reading "The Poet"
+- ~Poetry request for "Adab Aur Jazbaat"~
+- ~Poetry get "The Brothers Karamazov"~
+- ~Poetry reading "The Poet"~
 - Musab return "The Art of War"
-- Techlogix apply
+- ~Techlogix apply~
 - ~LeetCode GCD of Strings question~
 - Make Web Developer resume
 - Make App Developer resume
@@ -86,6 +86,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Fajr qaza
 - Zohar qaza
+- Isha qaza
 - Isha qaza
 - Isha qaza
 - Isha qaza
