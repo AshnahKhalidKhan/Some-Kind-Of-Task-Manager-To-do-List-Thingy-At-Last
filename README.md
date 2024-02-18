@@ -4,7 +4,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 
 - ~Witr qaza~
 - ~Upload MIPS labs~
-- Zuha return earphones
+- ~Zuha return earphones~
+- Zuha buy earphones...
 - ~Qaza namazein list...~
 - Qaza Roza # 1
 - Qaza Roza # 2
@@ -15,7 +16,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Clean laptop open Github repositories~
 - ~Maham permission for ISE group additions~
 - ~Minal permission for Software Architecture group~
-- DevOps group finalization permission
+- ~DevOps group finalization permission~
 - ~Securiti.ai test~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
@@ -29,9 +30,10 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Aapa eye appointment~
 - Aapa Aga Khan appointment
 - ISE assignment
+- ISE pdf virus assignment
 - ~ISE Coursera course~
 - ISE Imran Khan appointment
-- DevOps assignment
+- ~DevOps assignment~
 - SAD assignment # 1
 - SAD assignment # 2
 - SAD extra credit work... all 5 diagrams
@@ -90,3 +92,4 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Isha qaza
 - Isha qaza
+- ~NYUAD form-filling~
