@@ -92,4 +92,5 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Isha qaza
 - Isha qaza
+- Isha qaza
 - ~NYUAD form-filling~
