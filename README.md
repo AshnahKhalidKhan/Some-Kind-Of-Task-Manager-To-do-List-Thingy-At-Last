@@ -2,6 +2,11 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
+- 29th Feb: P&G Game | https://rb.gy/852wqw
+- 1st March: Salesflo MT Program | Need to update resume for this | https://gtdrive.salesflo.com/salesflo/
+- 2nd March: Women Tech Quest...
+- 8th March: Reckitt MT Program | Game must be completed BEFORE; will receive link within 3 hours of application | https://shorturl.at/ans36
+- 11th March: McKinsey | https://www.mckinsey.com/next-generation-women-leaders/emea
 - Qaza Roza # 1
 - Qaza Roza # 2
 - Qaza Roza # 3
