@@ -19,7 +19,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Senior Year Digital Diary maintenance
 - Aapa Aga Khan appointment
 - ISE assignment
-- ISE presentation
+- ~ISE presentation~
 - ISE report
 - ISE pdf virus assignment
 - ISE Imran Khan appointment
