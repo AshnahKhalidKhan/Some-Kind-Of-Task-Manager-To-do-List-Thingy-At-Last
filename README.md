@@ -77,7 +77,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Isha qaza
 - Isha qaza
-- Isha qaza
+- ~Isha qaza~
 - ~DAA PSet 1~
 - ~DAA PSet 1 Checking~
 - ~Witr qaza~
