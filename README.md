@@ -2,22 +2,24 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
+- DAA Quiz 2 Checking
+- FYP topics finalization... the parting of ways 🤝
 - Resume-less thingy: Technologix | https://docs.google.com/forms/d/e/1FAIpQLSfM41gtJoiQy7OMfjfsWJbBO1FHxq_expmEBtzfBYuXrLglXQ/viewform
-- 29th Feb: P&G Game | https://rb.gy/852wqw
-- 29th Feb: Fauji MT Program | https://applicants.fauji.org.pk/add_detail.php?jobid=NzA5
-- 1st March: TPL | https://tplcorp.com/tpl-leadership-program/
-- 1st March: Salesflo MT Program | Need to update resume for this | https://gtdrive.salesflo.com/salesflo/
-- 2nd March: Women Tech Quest...
+- ~29th Feb: P&G Game | https://rb.gy/852wqw~
+- ~29th Feb: Fauji MT Program | https://applicants.fauji.org.pk/add_detail.php?jobid=NzA5~
+- ~1st March: TPL | https://tplcorp.com/tpl-leadership-program/~
+- ~2nd March: Women Tech Quest...~
+- 5th March: Salesflo MT Program | Need to update resume for this | https://gtdrive.salesflo.com/salesflo/
 - 8th March: Reckitt MT Program | Game must be completed BEFORE; will receive link within 3 hours of application | https://shorturl.at/ans36
 - 10th March: Unilever FLP
 - 11th March: McKinsey | https://www.mckinsey.com/next-generation-women-leaders/emea
-- Qaza Roza # 1
+- ~Qaza Roza # 1~
 - Qaza Roza # 2
 - Qaza Roza # 3
 - Qaza Roza # 4
 - Qaza Roza # 5
 - Qaza Roza # 6
-- DevOps quiz
+- ~DevOps quiz~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
@@ -33,7 +35,6 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - IELTS registration
 - IELTS prep
 - DAA Tutorial 3 Questions
-- DAA Quiz 2 Checking
 - DAA PSet 2 Checking
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
@@ -71,6 +72,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Fajr qaza
 - Zohar qaza
+- Isha qaza
 - Isha qaza
 - Isha qaza
 - Isha qaza
