@@ -14,7 +14,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - 10th March: Unilever FLP
 - 11th March: McKinsey | https://www.mckinsey.com/next-generation-women-leaders/emea
 - ~Qaza Roza # 1~
-- Qaza Roza # 2
+- ~Qaza Roza # 2~
 - Qaza Roza # 3
 - Qaza Roza # 4
 - Qaza Roza # 5
@@ -34,7 +34,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - SAD extra credit work... all 5 diagrams
 - IELTS registration
 - IELTS prep
-- DAA Tutorial 3 Questions
+- ~DAA Tutorial 3 Questions~
 - DAA PSet 2 Checking
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
@@ -75,8 +75,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Isha qaza
 - Isha qaza
-- Isha qaza
-- Isha qaza
+- ~Isha qaza~
+- ~Isha qaza~
 - ~Isha qaza~
 - ~DAA PSet 1~
 - ~DAA PSet 1 Checking~
