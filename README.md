@@ -15,7 +15,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - 11th March: McKinsey | https://www.mckinsey.com/next-generation-women-leaders/emea
 - ~Qaza Roza # 1~
 - ~Qaza Roza # 2~
-- Qaza Roza # 3
+- ~Qaza Roza # 3~
 - Qaza Roza # 4
 - Qaza Roza # 5
 - Qaza Roza # 6
@@ -23,7 +23,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
-- Aapa Aga Khan appointment
+- ~Aapa Aga Khan appointment~
 - ISE assignment
 - ~ISE presentation~
 - ISE report
@@ -75,6 +75,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Isha qaza
 - Isha qaza
+- Fajr qaza
+- ~Isha qaza~
 - ~Isha qaza~
 - ~Isha qaza~
 - ~Isha qaza~
