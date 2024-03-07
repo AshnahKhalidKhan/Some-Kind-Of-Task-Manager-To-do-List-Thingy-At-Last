@@ -3,7 +3,7 @@
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
 - ~DAA Quiz 2 Checking~
-- FYP topics finalization... the parting of ways 🤝
+- ~FYP topics finalization... the parting of ways 🤝~
 - Resume-less thingy: Technologix | https://docs.google.com/forms/d/e/1FAIpQLSfM41gtJoiQy7OMfjfsWJbBO1FHxq_expmEBtzfBYuXrLglXQ/viewform
 - ~29th Feb: P&G Game | https://rb.gy/852wqw~
 - ~29th Feb: Fauji MT Program | https://applicants.fauji.org.pk/add_detail.php?jobid=NzA5~
@@ -75,7 +75,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Isha qaza
 - Isha qaza
-- Fajr qaza
+- ~Fajr qaza~
 - ~Isha qaza~
 - ~Isha qaza~
 - ~Isha qaza~
