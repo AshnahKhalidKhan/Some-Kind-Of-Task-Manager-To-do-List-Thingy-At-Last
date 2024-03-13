@@ -10,9 +10,9 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~1st March: TPL | https://tplcorp.com/tpl-leadership-program/~
 - ~2nd March: Women Tech Quest...~
 - ~5th March: Salesflo MT Program | Need to update resume for this | https://gtdrive.salesflo.com/salesflo/~
-- 8th March: Reckitt MT Program | Game must be completed BEFORE; will receive link within 3 hours of application | https://shorturl.at/ans36
-- 10th March: Unilever FLP
-- 11th March: McKinsey | https://www.mckinsey.com/next-generation-women-leaders/emea
+- ~8th March: Reckitt MT Program | Game must be completed BEFORE; will receive link within 3 hours of application | https://shorturl.at/ans36~
+- ~10th March: Unilever FLP~
+- ~11th March: McKinsey | https://www.mckinsey.com/next-generation-women-leaders/emea~
 - ~Qaza Roza # 1~
 - ~Qaza Roza # 2~
 - ~Qaza Roza # 3~
@@ -29,7 +29,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ISE report
 - ISE pdf virus assignment
 - ISE Imran Khan appointment
-- SAD assignment # 1
+- ~SAD assignment # 1~
 - SAD assignment # 2
 - SAD extra credit work... all 5 diagrams
 - IELTS registration
@@ -72,8 +72,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Isha qaza
 - Fajr qaza
 - Zohar qaza
-- Isha qaza
-- Isha qaza
+- ~Isha qaza~
+- ~Isha qaza~
 - ~Isha qaza~
 - ~Fajr qaza~
 - ~Isha qaza~
