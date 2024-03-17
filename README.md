@@ -2,7 +2,26 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-- Poetry Midterm
+Mon/Wed:
+4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 Sleep 👉 11 a.m. wake up 👉 FYP work 👉 Shower 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Sleep 👉 Asr 👉 Iftaar prep 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 12 a.m. sleep
+
+
+Tue/Thurs:
+4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 DevOps 👉 ISE 👉 DAA/Sir Imran office hours/FYP work in DAA 👉 Poetry 👉 Office hours 👉 Zohar 👉 Go home 👉 Sleep/Iftaar prep 👉 Asr 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talk to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 More food 👉 1 a.m. sleep
+
+
+Fri:
+4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 Shower 👉 SAD 👉 DAA quiz 👉 Talk to you 👉 Jummah/Zohar 👉 Go home 👉 Surah Kahf 👉 Sleep/Study 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 More food 👉 Job applications 👉 More talking to you  👉 Tahajjud (if I slept)  👉 More food
+
+
+Saturday:
+4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Quran 👉 Sleep 👉 11 a.m. wake up 👉 FYP work 👉 Shower 👉 Zohar 👉 Job applications/Assignments/Study 👉 Sleep 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 FYP work/Assignments/Study 👉 More food 👉 More talking to you  👉 Tahajjud (if I slept)  👉 More food
+
+
+Sunday:
+4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Sleep 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Senior Year Digital Diary maintenance 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 12 a.m. sleep
+
+- ~Poetry Midterm~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
@@ -54,8 +73,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fajr qaza
 - Asr qaza
 - Maghrib qaza
-- Isha qaza
-- Fajr qaza
+- ~Isha qaza~
+- ~Fajr qaza~
 - ~DevOps quiz~
 - ~Aapa Aga Khan appointment~
 - ~ISE presentation~
