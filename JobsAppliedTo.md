@@ -6,3 +6,4 @@
 - March 14, 2024: Jazz Digital Squad
 - March 14, 2024: Nespire: Supply Chain Edition
 - March 14, 2024: Software Engineer @ Techlogix
+- March 21, 2024: Backend Engineer @ VentureDive
