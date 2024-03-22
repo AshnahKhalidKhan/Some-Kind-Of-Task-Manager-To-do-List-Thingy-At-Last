@@ -41,7 +41,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - SAD extra credit work... all 5 diagrams
 - IELTS registration
 - IELTS prep
-- DAA PSet 2 Checking
+- ~DAA PSet 2 Checking~
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
 - Make Web Developer resume
