@@ -27,7 +27,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Zohar qaza~
 - ~25th March: Careem Recruitment Drive | MTL-4 (LAB), 12:00 - 1:25 PM | Tweak resume in advance~
 - Resume Tweaking...
-- 25th March: Izhaar Submission
+- 1st April: Izhaar Submission
 - 5th April: EBM MT Program | Game assessment: https://ebm2024.thetalent.games/
 - 6th April: GSK Commercial Future Leaders Graduate Programme | https://jobs.gsk.com/en-gb/jobs/391403?lang=en-us
 - 14th April: Creative Chaos
