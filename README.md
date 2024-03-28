@@ -39,8 +39,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ISE report
 - ISE pdf virus assignment
 - ISE Imran Khan appointment
-- SAD assignment # 2
-- SAD extra credit work... all 5 diagrams
+- ~SAD assignment # 2~
+- ~SAD extra credit work... all 5 diagrams~
 - IELTS registration
 - IELTS prep
 - ~DAA PSet 2 Checking~
@@ -58,6 +58,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Qaza Roza # 4
 - Qaza Roza # 5
 - Qaza Roza # 6
+- New Qaza Roza # 1
 - Fajr qaza
 - Fajr qaza
 - Zohar qaza
