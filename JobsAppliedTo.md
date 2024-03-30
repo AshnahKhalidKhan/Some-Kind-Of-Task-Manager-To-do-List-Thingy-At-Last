@@ -10,4 +10,5 @@
 
 
 # Jobs Interviewed For:
-- March 27, 2024: Securiti AI
+- March 27, 2024: Securiti AI - Round 1
+- April 2, 2024: Securiti AI - Round 2
