@@ -23,15 +23,16 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 
 4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Sleep 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Senior Year Digital Diary maintenance 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 12 a.m. sleep
 
-- ~21st March: Venture Dive | See email~
-- ~Zohar qaza~
-- ~25th March: Careem Recruitment Drive | MTL-4 (LAB), 12:00 - 1:25 PM | Tweak resume in advance~
 - Resume Tweaking...
+- SAD Project ERD
+- DevOps Assignment # 2
+- DAA PSet 2 Rechecking
+- Poetry Reading List Update
+- ISE email about policy-making resources
 - 1st April: Izhaar Submission
 - 5th April: EBM MT Program | Game assessment: https://ebm2024.thetalent.games/
 - 6th April: GSK Commercial Future Leaders Graduate Programme | https://jobs.gsk.com/en-gb/jobs/391403?lang=en-us
 - 14th April: Creative Chaos
-- ~Poetry Midterm~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
@@ -39,11 +40,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ISE report
 - ISE pdf virus assignment
 - ISE Imran Khan appointment
-- ~SAD assignment # 2~
-- ~SAD extra credit work... all 5 diagrams~
 - IELTS registration
 - IELTS prep
-- ~DAA PSet 2 Checking~
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
 - Make Web Developer resume
@@ -59,6 +57,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Qaza Roza # 5
 - Qaza Roza # 6
 - New Qaza Roza # 1
+- New Qaza Roza # 2
+- New Qaza Roza # 3
 - Fajr qaza
 - Fajr qaza
 - Zohar qaza
@@ -79,6 +79,13 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fajr qaza
 - Zohar qaza
 - Asr qaza
+- ~SAD assignment # 2~
+- ~SAD extra credit work... all 5 diagrams~
+- ~21st March: Venture Dive | See email~
+- ~Zohar qaza~
+- ~25th March: Careem Recruitment Drive | MTL-4 (LAB), 12:00 - 1:25 PM | Tweak resume in advance~
+- ~Poetry Midterm~
+- ~DAA PSet 2 Checking~
 - ~Maghrib qaza~
 - ~Isha qaza~
 - ~Fajr qaza~
