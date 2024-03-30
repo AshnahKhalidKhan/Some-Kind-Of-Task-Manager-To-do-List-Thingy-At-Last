@@ -24,6 +24,9 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Sleep 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Senior Year Digital Diary maintenance 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 12 a.m. sleep
 
 - Resume Tweaking...
+- Text Nabeel Bhai about Securiti
+- Text Saad Riaz about Securiti
+- Make some interview questions' bank for Securiti
 - SAD Project ERD
 - DevOps Assignment # 2
 - DAA PSet 2 Rechecking
