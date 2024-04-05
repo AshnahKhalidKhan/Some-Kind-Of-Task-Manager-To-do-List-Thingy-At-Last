@@ -27,7 +27,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Text Nabeel Bhai about Securiti
 - Text Saad Riaz about Securiti
 - Make some interview questions' bank for Securiti
-- SAD Project ERD
+- ~SAD Project ERD~
+- SAD Project Survey System ERD
 - DevOps Assignment # 2
 - DAA PSet 2 Rechecking
 - Poetry Reading List Update
@@ -59,9 +60,13 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Qaza Roza # 4
 - Qaza Roza # 5
 - Qaza Roza # 6
-- New Qaza Roza # 1
-- New Qaza Roza # 2
-- New Qaza Roza # 3
+- New Qaza Roza # 1 (Thursday)
+- New Qaza Roza # 2 (Friday)
+- New Qaza Roza # 3 (Saturday)
+- New Qaza Roza # 4 (Sunday)
+- New Qaza Roza # 5 (Monday)
+- New Qaza Roza # 6 (Tuesday)
+- New Qaza Roza # 7 (Wednesday)
 - Fajr qaza
 - Fajr qaza
 - Zohar qaza
@@ -79,9 +84,9 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Asr qaza
 - Maghrib qaza
 - Isha qaza
-- Fajr qaza
-- Zohar qaza
-- Asr qaza
+- ~Fajr qaza~
+- ~Zohar qaza~
+- ~Asr qaza~
 - ~SAD assignment # 2~
 - ~SAD extra credit work... all 5 diagrams~
 - ~21st March: Venture Dive | See email~
