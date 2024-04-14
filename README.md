@@ -34,10 +34,10 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~DAA PSet 2 Rechecking~
 - Poetry Reading List Update
 - ISE email about policy-making resources
-- 1st April: Izhaar Submission
-- 5th April: EBM MT Program | Game assessment: https://ebm2024.thetalent.games/
-- 6th April: GSK Commercial Future Leaders Graduate Programme | https://jobs.gsk.com/en-gb/jobs/391403?lang=en-us
-- 14th April: Creative Chaos
+- ~1st April: Izhaar Submission~
+- ~5th April: EBM MT Program | Game assessment: https://ebm2024.thetalent.games/~
+- ~6th April: GSK Commercial Future Leaders Graduate Programme | https://jobs.gsk.com/en-gb/jobs/391403?lang=en-us~
+- ~14th April: Creative Chaos~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
