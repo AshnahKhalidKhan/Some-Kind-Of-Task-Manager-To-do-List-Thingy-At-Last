@@ -7,6 +7,8 @@
 - March 14, 2024: Nespire: Supply Chain Edition
 - March 14, 2024: Software Engineer @ Techlogix
 - March 21, 2024: Backend Engineer @ VentureDive
+- April 14, 2024: Mobile Development @ Creative Chaos
+- April 15, 2024: IT (first choice) & Strategy (second choice) @ Lucky Core Industries
 
 
 # Jobs Interviewed For:
