@@ -30,7 +30,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Make some interview questions' bank for Securiti~
 - ~SAD Project ERD~
 - SAD Project Survey System ERD
-- DevOps Assignment # 2
+- ~DevOps Assignment # 2~
 - ~DAA PSet 2 Rechecking~
 - Poetry Reading List Update
 - ISE email about policy-making resources
@@ -86,7 +86,9 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Maghrib qaza
 - Isha qaza
 - Isha qaza
-- Isha qaza
+- ~Zohar qaza~
+- ~Maghrib qaza~
+- ~Isha qaza~
 - ~Isha qaza~
 - ~Fajr qaza~
 - ~Fajr qaza~
