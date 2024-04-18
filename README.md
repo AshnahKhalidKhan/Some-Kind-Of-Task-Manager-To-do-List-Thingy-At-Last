@@ -2,42 +2,10 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-
-**Mon/Wed:**
-
-~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 Sleep 👉 11 a.m. wake up 👉 FYP work 👉 Shower 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Sleep 👉 Asr 👉 Iftaar prep 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 12 a.m. sleep~
-
-**Tue/Thurs:**
-
-~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 DevOps 👉 ISE 👉 DAA/Sir Imran office hours/FYP work in DAA 👉 Poetry 👉 Office hours 👉 Zohar 👉 Go home 👉 Sleep/Iftaar prep 👉 Asr 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talk to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 More food 👉 1 a.m. sleep~
-
-**Friday:**
-
-~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 Shower 👉 SAD 👉 DAA quiz 👉 Talk to you 👉 Jummah/Zohar 👉 Go home 👉 Surah Kahf 👉 Sleep/Study 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 More food 👉 Job applications 👉 More talking to you  👉 Tahajjud (if I slept)  👉 More food~
-
-**Saturday:**
-
-~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Quran 👉 Sleep 👉 11 a.m. wake up 👉 FYP work 👉 Shower 👉 Zohar 👉 Job applications/Assignments/Study 👉 Sleep 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 FYP work/Assignments/Study 👉 More food 👉 More talking to you  👉 Tahajjud (if I slept)  👉 More food~
-
-**Sunday:**
-
-~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Sleep 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Senior Year Digital Diary maintenance 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 12 a.m. sleep~
-
-- ~DAA Pset 2 Regrade Requests~
 - Resume Tweaking...
-- ~Text Nabeel Bhai about Securiti~
-- ~Text Saad Riaz about Securiti~
-- ~Make some interview questions' bank for Securiti~
-- ~SAD Project ERD~
 - SAD Project Survey System ERD
-- ~DevOps Assignment # 2~
-- ~DAA PSet 2 Rechecking~
 - Poetry Reading List Update
 - ISE email about policy-making resources
-- ~1st April: Izhaar Submission~
-- ~5th April: EBM MT Program | Game assessment: https://ebm2024.thetalent.games/~
-- ~6th April: GSK Commercial Future Leaders Graduate Programme | https://jobs.gsk.com/en-gb/jobs/391403?lang=en-us~
-- ~14th April: Creative Chaos~
 - Fatima Grad Trip Diary
 - REPLY. TO. DUA.
 - Senior Year Digital Diary maintenance
@@ -94,6 +62,17 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Fajr qaza~
 - ~Zohar qaza~
 - ~Asr qaza~
+- ~DAA Pset 2 Regrade Requests~
+- ~Text Nabeel Bhai about Securiti~
+- ~Text Saad Riaz about Securiti~
+- ~Make some interview questions' bank for Securiti~
+- ~SAD Project ERD~
+- ~DevOps Assignment # 2~
+- ~DAA PSet 2 Rechecking~
+- ~1st April: Izhaar Submission~
+- ~5th April: EBM MT Program | Game assessment: https://ebm2024.thetalent.games/~
+- ~6th April: GSK Commercial Future Leaders Graduate Programme | https://jobs.gsk.com/en-gb/jobs/391403?lang=en-us~
+- ~14th April: Creative Chaos~
 - ~SAD assignment # 2~
 - ~SAD extra credit work... all 5 diagrams~
 - ~21st March: Venture Dive | See email~
@@ -165,3 +144,23 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Techlogix apply~
 - ~LeetCode GCD of Strings question~
 - ~NYUAD form-filling~
+
+**Mon/Wed:**
+
+~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 Sleep 👉 11 a.m. wake up 👉 FYP work 👉 Shower 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Sleep 👉 Asr 👉 Iftaar prep 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 12 a.m. sleep~
+
+**Tue/Thurs:**
+
+~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 DevOps 👉 ISE 👉 DAA/Sir Imran office hours/FYP work in DAA 👉 Poetry 👉 Office hours 👉 Zohar 👉 Go home 👉 Sleep/Iftaar prep 👉 Asr 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talk to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 More food 👉 1 a.m. sleep~
+
+**Friday:**
+
+~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Assignments/Study 👉 Shower 👉 SAD 👉 DAA quiz 👉 Talk to you 👉 Jummah/Zohar 👉 Go home 👉 Surah Kahf 👉 Sleep/Study 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 More food 👉 Job applications 👉 More talking to you  👉 Tahajjud (if I slept)  👉 More food~
+
+**Saturday:**
+
+~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Quran 👉 Sleep 👉 11 a.m. wake up 👉 FYP work 👉 Shower 👉 Zohar 👉 Job applications/Assignments/Study 👉 Sleep 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talk to you 👉 Dinner + House/movie 👉 FYP work/Assignments/Study 👉 More food 👉 More talking to you  👉 Tahajjud (if I slept)  👉 More food~
+
+**Sunday:**
+
+~4:00 a.m. wake up 👉 Tahajjud 👉 Sehri 👉 Fajr 👉 Talk to you 👉 Sleep 👉 Zohar 👉 Assignments/Study 👉 Quran 👉 Senior Year Digital Diary maintenance 👉 Asr 👉 Iftaar prep 👉 Quran 👉 Iftaar 👉 Maghrib 👉 Qaza 👉 Some snack 👉 Talking to you 👉 Isha + Taraweeh  👉 Talking to you 👉 Dinner + House/movie 👉 Shower 👉 12 a.m. sleep~
