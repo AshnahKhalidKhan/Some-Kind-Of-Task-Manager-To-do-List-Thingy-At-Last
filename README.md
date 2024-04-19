@@ -2,27 +2,25 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-- Resume Tweaking...
-- SAD Project Survey System ERD
-- Poetry Reading List Update
-- ISE email about policy-making resources
-- Fatima Grad Trip Diary
-- REPLY. TO. DUA.
-- Senior Year Digital Diary maintenance
-- ISE assignment
-- ISE report
-- ISE pdf virus assignment
-- ISE Imran Khan appointment
-- IELTS registration
-- IELTS prep
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
+- 19 April: SAD Survey Management ERD
+- 22 April: DevOps Assignment # 2
+- 22 April: ISE Pen-testing Assignment
+- ISE Assignment # 1
+- ISE PDF-virus Assignment
+- ISE appointment for understanding IDPS placement
+- ISE email about policy-making resources
+- 27 April: ISE IDPS
+- 28 April: Poetry Assignment
+- Resume Tweaking...
+- Poetry Reading List Update
+- LinkedIn add projects
 - Make Web Developer resume
 - Make App Developer resume
 - Make Software Engineer resume
 - Make DevOps Engineer resume
 - Make MNCs IT person resume
-- LinkedIn add projects
 - ~Qaza Roza # 1~
 - ~Qaza Roza # 2~
 - ~Qaza Roza # 3~
@@ -36,6 +34,11 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - New Qaza Roza # 5 (Monday)
 - New Qaza Roza # 6 (Tuesday)
 - New Qaza Roza # 7 (Wednesday)
+- Fatima Grad Trip Diary
+- REPLY. TO. DUA.
+- Senior Year Digital Diary maintenance
+- IELTS registration
+- IELTS prep
 - Fajr qaza
 - Fajr qaza
 - Zohar qaza
