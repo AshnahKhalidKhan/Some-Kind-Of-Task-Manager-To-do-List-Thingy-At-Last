@@ -4,7 +4,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
-- 19 April: SAD Survey Management ERD
+- DAA PSet3 Checking
+- ~19 April: SAD Survey Management ERD~
 - 22 April: DevOps Assignment # 2
 - 22 April: ISE Pen-testing Assignment
 - ISE Assignment # 1
@@ -55,7 +56,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Zohar qaza
 - Asr qaza
 - Maghrib qaza
-- Isha qaza
+- ~Isha qaza~
+- ~Fajr qaza~
 - ~Isha qaza~
 - ~Zohar qaza~
 - ~Maghrib qaza~
