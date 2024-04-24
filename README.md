@@ -6,16 +6,16 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - FYP Jamie notebooks
 - DAA PSet3 Checking
 - ~19 April: SAD Survey Management ERD~
-- 22 April: Sabanci University Thingy - https://pure.sabanciuniv.edu/node/add/application - see email too
-- 22 April: DevOps Assignment # 2
-- 22 April: ISE Pen-testing Assignment
+- ~22 April: Sabanci University Thingy - https://pure.sabanciuniv.edu/node/add/application - see email too~
+- ~22 April: DevOps Assignment # 2~
+- ~22 April: ISE Pen-testing Assignment~
+- 27 April: ISE IDPS
+- 28 April: Poetry Assignment
+- 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - ISE Assignment # 1
 - ISE PDF-virus Assignment
 - ISE appointment for understanding IDPS placement
 - ISE email about policy-making resources
-- 27 April: ISE IDPS
-- 28 April: Poetry Assignment
-- 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - Resume Tweaking...
 - Poetry Reading List Update
 - LinkedIn add projects
@@ -55,8 +55,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fajr qaza
 - Zohar qaza
 - Isha qaza
-- Isha qaza
-- Fajr qaza
+- ~Isha qaza~
+- ~Fajr qaza~
 - ~Zohar qaza~
 - ~Asr qaza~
 - ~Maghrib qaza~
