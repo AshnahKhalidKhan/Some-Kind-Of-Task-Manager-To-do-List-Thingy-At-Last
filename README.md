@@ -16,7 +16,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ISE PDF-virus Assignment
 - ISE appointment for understanding IDPS placement
 - ISE email about policy-making resources
-- Resume Tweaking...
+- ~Resume Tweaking...~
 - Poetry Reading List Update
 - LinkedIn add projects
 - Make Web Developer resume
