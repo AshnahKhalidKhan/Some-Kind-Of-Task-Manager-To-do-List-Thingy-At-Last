@@ -11,6 +11,7 @@
 - April 15, 2024: IT (first choice) & Strategy (second choice) @ Lucky Core Industries
 - April 18, 2024: Middleware Trainee Developer @ Royal Cyber Software Trainee Program
 - April 19, 2024: Associate Salesforce Developer @ Cloud Junction
+- April 30, 2024: IT MT Office @ Astera
 
 
 # Jobs Interviewed For:
