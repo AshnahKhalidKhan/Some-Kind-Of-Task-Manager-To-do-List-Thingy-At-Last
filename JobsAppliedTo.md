@@ -13,6 +13,7 @@
 - April 19, 2024: Associate Salesforce Developer @ Cloud Junction
 - April 30, 2024: IT MT Office @ Astera
 - April 30, 2024: IT Intern @ Solace (IBA CED)
+- April 30, 2024: Fresh Grad Software Project Engineer @ Folio3
 
 
 # Jobs Interviewed For:
