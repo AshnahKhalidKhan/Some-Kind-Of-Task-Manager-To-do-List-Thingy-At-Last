@@ -12,6 +12,7 @@
 - April 18, 2024: Middleware Trainee Developer @ Royal Cyber Software Trainee Program
 - April 19, 2024: Associate Salesforce Developer @ Cloud Junction
 - April 30, 2024: IT MT Office @ Astera
+- April 30, 2024: IT Intern @ Solace (IBA CED)
 
 
 # Jobs Interviewed For:
