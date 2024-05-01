@@ -2,9 +2,11 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
+- FYP Meeting
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
-- DAA PSet3 Checking
+- ~DAA PSet3 Checking~
+- DAA PSet 4 Checking
 - ~19 April: SAD Survey Management ERD~
 - ~22 April: Sabanci University Thingy - https://pure.sabanciuniv.edu/node/add/application - see email too~
 - ~22 April: DevOps Assignment # 2~
