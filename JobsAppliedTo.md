@@ -14,6 +14,16 @@
 - April 30, 2024: IT MT Office @ Astera
 - April 30, 2024: IT Intern @ Solace (IBA CED)
 - April 30, 2024: Fresh Grad Software Project Engineer @ Folio3
+- May 4, 2024: MERN Stack Developer @ Techesthete
+- May 4, 2024: Python Intern @ Galaxy Solutions ITC
+- May 4, 2024: Junior Software Engineer @ Riksof
+- May 4, 2024: NodeJS Developer @ Avancera Solutions
+- May 4, 2024: Android Developer @ Funsol Tech
+- May 4, 2024: PHYP/NodeJS Backend Developer @ Gaditek
+- May 4, 2024: NodeJS Intern @ Tafsol
+- May 4, 2024: Software Engineer Backend - JD @ Next Capital
+- May 5, 2024: Backend Developer @ JBS GradNest'24
+- May 5, 2024: Web Dev Intern @ Data Science Dojo
 
 
 # Jobs Interviewed For:
