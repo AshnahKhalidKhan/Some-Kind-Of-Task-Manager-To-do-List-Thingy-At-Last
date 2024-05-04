@@ -24,6 +24,7 @@
 - May 4, 2024: Software Engineer Backend - JD @ Next Capital
 - May 5, 2024: Backend Developer @ JBS GradNest'24
 - May 5, 2024: Web Dev Intern @ Data Science Dojo
+- May 5, 2024: Associate DevOps Engineer @ Kodexo Labs
 
 
 # Jobs Interviewed For:
