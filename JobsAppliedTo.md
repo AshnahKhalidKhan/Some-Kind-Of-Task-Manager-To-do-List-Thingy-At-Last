@@ -26,8 +26,10 @@
 - May 4, 2024: Web Dev Intern @ Data Science Dojo
 - May 4, 2024: Associate DevOps Engineer @ Kodexo Labs
 - May 6, 2024: MT Program @ Shell
+- May 7, 2024: Mobile App Development Intern @ Salsoft
 
 
 # Jobs Interviewed For:
 - March 27, 2024: Securiti AI - Round 1
 - April 2, 2024: Securiti AI - Round 2
+- May 6, 2024: Astera MTO Tech Assessment - Round 1
