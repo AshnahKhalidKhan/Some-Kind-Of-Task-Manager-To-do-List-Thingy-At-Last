@@ -27,6 +27,8 @@
 - May 4, 2024: Associate DevOps Engineer @ Kodexo Labs
 - May 6, 2024: MT Program @ Shell
 - May 7, 2024: Mobile App Development Intern @ Salsoft
+- May 11, 2024: Operations Intern @ Gaditek
+- May 11, 2024: Associate Software Engineer - Web @ Qordata
 
 
 # Jobs Interviewed For:
