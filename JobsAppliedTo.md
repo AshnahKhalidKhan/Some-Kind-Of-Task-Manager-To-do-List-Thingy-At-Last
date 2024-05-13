@@ -29,9 +29,14 @@
 - May 7, 2024: Mobile App Development Intern @ Salsoft
 - May 11, 2024: Operations Intern @ Gaditek
 - May 11, 2024: Associate Software Engineer - Web @ Qordata
+- May 13, 2024: Aspire Future Leaders Programme @ AKU
+- May 13, 2024: Programmer Analyst @ AKU
+- May 13, 2024: IT department @ UEP
+- May 13, 2024: SAP Trainee (IT) Trainee Program @ Gatronova
 
 
 # Jobs Interviewed For:
 - March 27, 2024: Securiti AI - Round 1
 - April 2, 2024: Securiti AI - Round 2
 - May 6, 2024: Astera MTO Tech Assessment - Round 1
+- May 14, 2024: AKU Programmer Analyst Technical Assessment + Interview
