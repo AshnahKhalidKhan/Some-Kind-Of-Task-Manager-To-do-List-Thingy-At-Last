@@ -3,17 +3,24 @@
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
 - Fatima send Eid pics
-- Tooba Ahmed Alvi add on LinkedIn
-- Namrah baji CV send
 - Ammi Papa tickets, travel docs print
-- Thank Samiya Jabbar
-- Text Saad Tariq about Astera
-- Scan certificates (AKU, NYUAD etc)
 - 20 May: FYP meeting + report
 - DevOps debug project
-- ~FYP Meeting~
+- Text Saad Tariq about Astera
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
+- 28 April: Poetry Assignment
+- 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
+- ISE Assignment # 1
+- ISE PDF-virus Assignment
+- ISE appointment for understanding IDPS placement
+- ISE email about policy-making resources
+- Poetry Reading List Update
+- ~Tooba Ahmed Alvi add on LinkedIn~
+- ~Namrah baji CV send~
+- ~Thank Samiya Jabbar~
+- ~Scan certificates (AKU, NYUAD etc)~
+- ~FYP Meeting~
 - ~DAA PSet3 Checking~
 - ~DAA PSet 4 Checking~
 - ~19 April: SAD Survey Management ERD~
@@ -21,14 +28,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~22 April: DevOps Assignment # 2~
 - ~22 April: ISE Pen-testing Assignment~
 - ~27 April: ISE IDPS~
-- 28 April: Poetry Assignment
-- 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
-- ISE Assignment # 1
-- ISE PDF-virus Assignment
-- ISE appointment for understanding IDPS placement
-- ISE email about policy-making resources
 - ~Resume Tweaking...~
-- Poetry Reading List Update
 - LinkedIn add projects
 - Make Web Developer resume
 - Make App Developer resume
