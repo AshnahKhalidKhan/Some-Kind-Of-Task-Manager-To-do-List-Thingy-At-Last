@@ -33,6 +33,7 @@
 - May 13, 2024: Programmer Analyst @ AKU
 - May 13, 2024: IT department @ UEP
 - May 13, 2024: SAP Trainee (IT) Trainee Program @ Gatronova
+- May 14, 2024: Web Dev Intern @ Ultra Codes Pvt Ltd (Lahore)
 
 
 # Jobs Interviewed For:
@@ -40,3 +41,4 @@
 - April 2, 2024: Securiti AI - Round 2
 - May 6, 2024: Astera MTO Tech Assessment - Round 1
 - May 14, 2024: AKU Programmer Analyst Technical Assessment + Interview
+- May 16, 2024: Astera MTO In-person interview - Round 2
