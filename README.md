@@ -2,16 +2,25 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-- FYP Meeting
+- Fatima send Eid pics
+- Tooba Ahmed Alvi add on LinkedIn
+- Namrah baji CV send
+- Ammi Papa tickets, travel docs print
+- Thank Samiya Jabbar
+- Text Saad Tariq about Astera
+- Scan certificates (AKU, NYUAD etc)
+- 20 May: FYP meeting + report
+- DevOps debug project
+- ~FYP Meeting~
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
 - ~DAA PSet3 Checking~
-- DAA PSet 4 Checking
+- ~DAA PSet 4 Checking~
 - ~19 April: SAD Survey Management ERD~
 - ~22 April: Sabanci University Thingy - https://pure.sabanciuniv.edu/node/add/application - see email too~
 - ~22 April: DevOps Assignment # 2~
 - ~22 April: ISE Pen-testing Assignment~
-- 27 April: ISE IDPS
+- ~27 April: ISE IDPS~
 - 28 April: Poetry Assignment
 - 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - ISE Assignment # 1
@@ -57,10 +66,11 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fajr qaza
 - Zohar qaza
 - Isha qaza
-- Asr qaza
-- Isha qaza
-- Isha qaza
-- Zohar qaza
+- ~Asr qaza~
+- ~Isha qaza~
+- ~Isha qaza~
+- ~Zohar qaza~
+- ~Fajr qaza~
 - ~Isha qaza~
 - ~Fajr qaza~
 - ~Zohar qaza~
