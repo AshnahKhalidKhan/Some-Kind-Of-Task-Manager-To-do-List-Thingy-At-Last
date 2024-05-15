@@ -34,6 +34,7 @@
 - May 13, 2024: IT department @ UEP
 - May 13, 2024: SAP Trainee (IT) Trainee Program @ Gatronova
 - May 14, 2024: Web Dev Intern @ Ultra Codes Pvt Ltd (Lahore)
+- May 15, 2024: Internship @ Impetus Consulting
 
 
 # Jobs Interviewed For:
