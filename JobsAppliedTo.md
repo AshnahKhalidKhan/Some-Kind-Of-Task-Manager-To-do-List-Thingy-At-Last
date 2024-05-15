@@ -35,6 +35,8 @@
 - May 13, 2024: SAP Trainee (IT) Trainee Program @ Gatronova
 - May 14, 2024: Web Dev Intern @ Ultra Codes Pvt Ltd (Lahore)
 - May 15, 2024: Internship @ Impetus Consulting
+- May 15, 2024: Associate Backend Engineer (Fresh Graduates) @ Softetch Worldwide
+- May 15, 2024: ReactJS Intern @ eSpark Consultants Group
 
 
 # Jobs Interviewed For:
