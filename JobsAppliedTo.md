@@ -45,3 +45,4 @@
 - May 6, 2024: Astera MTO Tech Assessment - Round 1
 - May 14, 2024: AKU Programmer Analyst Technical Assessment + Interview
 - May 16, 2024: Astera MTO In-person interview - Round 2
+- May 18, 2024: Royal Cyber Middleware Trainee Developer Technical Assessment
