@@ -66,6 +66,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Fajr qaza
 - Zohar qaza
 - Isha qaza
+- Isha qaza
+- ~Zohar qaza~
 - ~Asr qaza~
 - ~Isha qaza~
 - ~Isha qaza~
