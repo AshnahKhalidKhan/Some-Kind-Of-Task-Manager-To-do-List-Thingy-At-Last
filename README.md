@@ -2,20 +2,20 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-- Fatima send Eid pics
-- Ammi Papa tickets, travel docs print
-- 20 May: FYP meeting + report
-- DevOps debug project
-- Text Saad Tariq about Astera
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
-- 28 April: Poetry Assignment
+- 20 May: FYP meeting + report
+- DevOps debug project
 - 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - ISE Assignment # 1
 - ISE PDF-virus Assignment
 - ISE appointment for understanding IDPS placement
 - ISE email about policy-making resources
-- Poetry Reading List Update
+- ~Poetry Reading List Update~
+- ~Fatima send Eid pics~
+- ~Ammi Papa tickets, travel docs print~
+- ~Text Saad Tariq about Astera~
+- ~28 April: Poetry Assignment~
 - ~Tooba Ahmed Alvi add on LinkedIn~
 - ~Namrah baji CV send~
 - ~Thank Samiya Jabbar~
