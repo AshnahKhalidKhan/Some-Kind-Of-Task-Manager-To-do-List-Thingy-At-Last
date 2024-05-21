@@ -12,6 +12,14 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ISE PDF-virus Assignment
 - ISE appointment for understanding IDPS placement
 - ISE email about policy-making resources
+- LinkedIn add projects
+- LinkedIn add LeetCode profile to featured section
+- LinkedIn add HackerRank profile to featured section
+- Make Web Developer resume
+- Make App Developer resume
+- Make Software Engineer resume
+- Make DevOps Engineer resume
+- Make MNCs IT person resume
 - ~20 May: FYP meeting + report~
 - ~Poetry Reading List Update~
 - ~Fatima send Eid pics~
@@ -31,12 +39,6 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~22 April: ISE Pen-testing Assignment~
 - ~27 April: ISE IDPS~
 - ~Resume Tweaking...~
-- LinkedIn add projects
-- Make Web Developer resume
-- Make App Developer resume
-- Make Software Engineer resume
-- Make DevOps Engineer resume
-- Make MNCs IT person resume
 - ~Qaza Roza # 1~
 - ~Qaza Roza # 2~
 - ~Qaza Roza # 3~
