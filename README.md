@@ -4,13 +4,15 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 
 - FYP QGS notebook (slider example and do-it-yourself projection exercises)
 - FYP Jamie notebooks
-- 20 May: FYP meeting + report
+- FYP add references
+- FYP write learning outcomes in report
 - DevOps debug project
 - 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - ISE Assignment # 1
 - ISE PDF-virus Assignment
 - ISE appointment for understanding IDPS placement
 - ISE email about policy-making resources
+- ~20 May: FYP meeting + report~
 - ~Poetry Reading List Update~
 - ~Fatima send Eid pics~
 - ~Ammi Papa tickets, travel docs print~
