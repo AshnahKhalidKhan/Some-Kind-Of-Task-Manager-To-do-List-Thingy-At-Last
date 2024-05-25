@@ -6,7 +6,6 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - FYP Jamie notebooks
 - FYP add references
 - FYP write learning outcomes in report
-- DevOps debug project
 - 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - ISE Assignment # 1
 - ISE PDF-virus Assignment
@@ -20,6 +19,7 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Make Software Engineer resume
 - Make DevOps Engineer resume
 - Make MNCs IT person resume
+- ~DevOps debug project~
 - ~20 May: FYP meeting + report~
 - ~Poetry Reading List Update~
 - ~Fatima send Eid pics~
@@ -71,6 +71,12 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Zohar qaza
 - Isha qaza
 - Isha qaza
+- Isha qaza
+- Fajr qaza
+- Isha qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
 - ~Zohar qaza~
 - ~Asr qaza~
 - ~Isha qaza~
