@@ -2,15 +2,69 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-- FYP QGS notebook (slider example and do-it-yourself projection exercises)
-- FYP Jamie notebooks
-- FYP add references
-- FYP write learning outcomes in report
 - 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
-- ISE Assignment # 1
-- ISE PDF-virus Assignment
-- ISE appointment for understanding IDPS placement
-- ISE email about policy-making resources
+- ~Qaza Roza # 1~
+- ~Qaza Roza # 2~
+- ~Qaza Roza # 3~
+- Qaza Roza # 4
+- Qaza Roza # 5
+- Qaza Roza # 6
+- New Qaza Roza # 1 (Thursday)
+- New Qaza Roza # 2 (Friday)
+- New Qaza Roza # 3 (Saturday)
+- New Qaza Roza # 4 (Sunday)
+- New Qaza Roza # 5 (Monday)
+- New Qaza Roza # 6 (Tuesday)
+- New Qaza Roza # 7 (Wednesday)
+- Fajr qaza
+- Fajr qaza
+- Zohar qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Asr qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Zohar qaza
+- Isha qaza
+- Isha qaza
+- Isha qaza
+- Fajr qaza
+- Isha qaza
+- Maghrib qaza
+- Isha qaza
+- Fajr qaza
+- Isha qaza
+- Isha qaza
+- ~Zohar qaza~
+- ~Asr qaza~
+- ~Isha qaza~
+- ~Isha qaza~
+- ~Zohar qaza~
+- ~Fajr qaza~
+- ~Isha qaza~
+- ~Fajr qaza~
+- ~Zohar qaza~
+- ~Asr qaza~
+- ~Maghrib qaza~
+- ~Isha qaza~
+- ~Fajr qaza~
+- ~Isha qaza~
+- ~Zohar qaza~
+- ~Maghrib qaza~
+- ~Isha qaza~
+- ~Isha qaza~
+- ~Fajr qaza~
+- ~Fajr qaza~
+- ~Zohar qaza~
+- ~Asr qaza~
+- Fatima Grad Trip Diary
+- REPLY. TO. DUA.
+- Senior Year Digital Diary maintenance
+- IELTS registration
+- IELTS prep
 - LinkedIn add projects
 - LinkedIn add LeetCode profile to featured section
 - LinkedIn add HackerRank profile to featured section
@@ -19,6 +73,14 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - Make Software Engineer resume
 - Make DevOps Engineer resume
 - Make MNCs IT person resume
+- ~ISE Assignment # 1~
+- ~ISE PDF-virus Assignment~
+- ~ISE appointment for understanding IDPS placement~
+- ~ISE email about policy-making resources~
+- ~FYP QGS notebook (slider example and do-it-yourself projection exercises)~
+- ~FYP Jamie notebooks~
+- ~FYP add references~
+- ~FYP write learning outcomes in report~
 - ~DevOps debug project~
 - ~20 May: FYP meeting + report~
 - ~Poetry Reading List Update~
@@ -39,68 +101,6 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~22 April: ISE Pen-testing Assignment~
 - ~27 April: ISE IDPS~
 - ~Resume Tweaking...~
-- ~Qaza Roza # 1~
-- ~Qaza Roza # 2~
-- ~Qaza Roza # 3~
-- Qaza Roza # 4
-- Qaza Roza # 5
-- Qaza Roza # 6
-- New Qaza Roza # 1 (Thursday)
-- New Qaza Roza # 2 (Friday)
-- New Qaza Roza # 3 (Saturday)
-- New Qaza Roza # 4 (Sunday)
-- New Qaza Roza # 5 (Monday)
-- New Qaza Roza # 6 (Tuesday)
-- New Qaza Roza # 7 (Wednesday)
-- Fatima Grad Trip Diary
-- REPLY. TO. DUA.
-- Senior Year Digital Diary maintenance
-- IELTS registration
-- IELTS prep
-- Fajr qaza
-- Fajr qaza
-- Zohar qaza
-- Asr qaza
-- Maghrib qaza
-- Isha qaza
-- Fajr qaza
-- Asr qaza
-- Maghrib qaza
-- Isha qaza
-- Fajr qaza
-- Zohar qaza
-- Isha qaza
-- Isha qaza
-- Isha qaza
-- Fajr qaza
-- Isha qaza
-- Maghrib qaza
-- Isha qaza
-- Fajr qaza
-- Isha qaza
-- Isha qaza
-- ~Zohar qaza~
-- ~Asr qaza~
-- ~Isha qaza~
-- ~Isha qaza~
-- ~Zohar qaza~
-- ~Fajr qaza~
-- ~Isha qaza~
-- ~Fajr qaza~
-- ~Zohar qaza~
-- ~Asr qaza~
-- ~Maghrib qaza~
-- ~Isha qaza~
-- ~Fajr qaza~
-- ~Isha qaza~
-- ~Zohar qaza~
-- ~Maghrib qaza~
-- ~Isha qaza~
-- ~Isha qaza~
-- ~Fajr qaza~
-- ~Fajr qaza~
-- ~Zohar qaza~
-- ~Asr qaza~
 - ~DAA Pset 2 Regrade Requests~
 - ~Text Nabeel Bhai about Securiti~
 - ~Text Saad Riaz about Securiti~
