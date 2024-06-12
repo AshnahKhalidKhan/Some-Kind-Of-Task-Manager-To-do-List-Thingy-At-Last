@@ -11,7 +11,7 @@
 - April 15, 2024: IT (first choice) & Strategy (second choice) @ Lucky Core Industries
 - April 18, 2024: Middleware Trainee Developer @ Royal Cyber Software Trainee Program
 - April 19, 2024: Associate Salesforce Developer @ Cloud Junction
-- April 30, 2024: IT MT Office @ Astera
+- April 30, 2024: IT MT Officer @ Astera
 - April 30, 2024: IT Intern @ Solace (IBA CED)
 - April 30, 2024: Fresh Grad Software Project Engineer @ Folio3
 - May 3, 2024: MERN Stack Developer @ Techesthete
@@ -46,3 +46,8 @@
 - May 14, 2024: AKU Programmer Analyst Technical Assessment + Interview
 - May 16, 2024: Astera MTO In-person interview - Round 2
 - May 18, 2024: Royal Cyber Middleware Trainee Developer Technical Assessment
+- June 13, 2024: Gatronova SAP Trainee (IT) Trainee Program Interview
+
+
+# Jobs Started:
+- June 4, 2024: IT MT Office @ Astera
