@@ -2,7 +2,6 @@
 
 Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, LinkedIn, Job, Badminton, Fatima, Dua, Senior Year Diary
 
-- 17 June: relAI MSc Applications - https://zuseschoolrelai.de/application/
 - ~Qaza Roza # 1~
 - ~Qaza Roza # 2~
 - ~Qaza Roza # 3~
