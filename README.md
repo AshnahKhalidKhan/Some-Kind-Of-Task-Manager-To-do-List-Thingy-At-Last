@@ -13,8 +13,8 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - New Qaza Roza # 3 (Saturday)
 - New Qaza Roza # 4 (Sunday)
 - New Qaza Roza # 5 (Monday)
-- New Qaza Roza # 6 (Tuesday)
-- New Qaza Roza # 7 (Wednesday)
+- ~New Qaza Roza # 6 (Tuesday)~
+- ~New Qaza Roza # 7 (Wednesday)~
 - Fajr qaza
 - Fajr qaza
 - Zohar qaza
