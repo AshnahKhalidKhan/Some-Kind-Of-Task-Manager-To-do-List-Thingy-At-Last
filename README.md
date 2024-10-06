@@ -15,25 +15,25 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - New Qaza Roza # 5 (Monday)
 - ~New Qaza Roza # 6 (Tuesday)~
 - ~New Qaza Roza # 7 (Wednesday)~
-- Fajr qaza
-- Fajr qaza
-- Zohar qaza
-- Asr qaza
-- Maghrib qaza
-- Isha qaza
-- Fajr qaza
-- Asr qaza
-- Maghrib qaza
-- Isha qaza
-- Fajr qaza
-- Zohar qaza
-- Isha qaza
-- Isha qaza
-- Isha qaza
-- Fajr qaza
-- Isha qaza
-- Maghrib qaza
-- Isha qaza
+- ~Fajr qaza~
+- ~Fajr qaza~
+- ~Zohar qaza~
+- ~Asr qaza~
+- ~Maghrib qaza~
+- ~Isha qaza~
+- ~Fajr qaza~
+- ~Asr qaza~
+- ~Maghrib qaza~
+- ~Isha qaza~
+- ~Fajr qaza~
+- ~Zohar qaza~
+- ~Isha qaza~
+- ~Isha qaza~
+- ~Isha qaza~
+- ~Fajr qaza~
+- ~Isha qaza~
+- ~Maghrib qaza~
+- ~Isha qaza~
 - ~Fajr qaza~
 - ~Isha qaza~
 - ~Fajr qaza~
