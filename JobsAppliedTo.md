@@ -38,7 +38,7 @@
 - May 15, 2024: Associate Backend Engineer (Fresh Graduates) @ Softetch Worldwide
 - May 15, 2024: ReactJS Intern @ eSpark Consultants Group
 - December 28, 2024: Dynamics 365/Power Platform Engineer @ Imperium Dynamics
-- December 28, 2024: Application Consultant @ Techlogix
+- December 28, 2024: Application Consultant (PL/SQL Developer) @ Techlogix
 
 
 # Jobs Interviewed For:
