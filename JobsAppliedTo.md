@@ -43,6 +43,7 @@
 - January 4, 2025: IT Data Engineer Intern @ Pinterest
 - January 4, 2025: Information Systems, IT, Cyber Engineer & Data Science @ Honeywell
 - January 4, 2025: .NET Developer Intern @ Blue Cross NC
+- January 4, 2025: Cloud Software Engineer @ Namecheap
 
 
 # Jobs Interviewed For:
