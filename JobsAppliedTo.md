@@ -40,6 +40,7 @@
 - December 28, 2024: Dynamics 365/Power Platform Engineer @ Imperium Dynamics
 - December 28, 2024: Application Consultant (PL/SQL Developer) @ Techlogix
 - January 4, 2025: NVIDIA 2025 Internships: Software Engineering @ NVIDIA
+- January 4, 2025: IT Data Engineer Intern @ Pinterest
 
 
 # Jobs Interviewed For:
