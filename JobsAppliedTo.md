@@ -41,6 +41,8 @@
 - December 28, 2024: Application Consultant (PL/SQL Developer) @ Techlogix
 - January 4, 2025: NVIDIA 2025 Internships: Software Engineering @ NVIDIA
 - January 4, 2025: IT Data Engineer Intern @ Pinterest
+- January 4, 2025: Information Systems, IT, Cyber Engineer & Data Science @ Honeywell
+- January 4, 2025: .NET Developer Intern @ Blue Cross NC
 
 
 # Jobs Interviewed For:
