@@ -45,6 +45,11 @@
 - January 4, 2025: .NET Developer Intern @ Blue Cross NC
 - January 4, 2025: Cloud Software Engineer @ Namecheap
 - January 5, 2025: Software Engineer - Backend @ Motive
+- January 5, 2025: Technical Support Engineer - Developer Support @ Motive
+- January 5, 2025: Azure Architect @ VeriPak
+- January 5, 2025: Microsoft Power Platform and Power BI Specialist @ Ibex
+- January 5, 2025: AM Product Development & CTI IC @ Unilever
+- January 5, 2025: Microsoft Dynamics 365 CRM / CE Technical @ VeriPak
 
 
 # Jobs Interviewed For:
