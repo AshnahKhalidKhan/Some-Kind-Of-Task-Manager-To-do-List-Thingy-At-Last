@@ -52,6 +52,8 @@
 - January 5, 2025: Microsoft Dynamics 365 CRM / CE Technical @ VeriPak
 - January 19, 2025: DevSecOps Engineer @ CitrusBits
 - January 19, 2025: Software Engineer @ Calyptus
+- January 22, 2025: IT Support @ Data Science Dojo
+- January 22, 2025: Graduate Trainee Program @ Salesflo
 
 
 # Jobs Interviewed For:
