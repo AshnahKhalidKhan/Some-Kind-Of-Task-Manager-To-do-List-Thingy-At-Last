@@ -54,6 +54,7 @@
 - January 19, 2025: Software Engineer @ Calyptus
 - January 22, 2025: IT Support @ Data Science Dojo
 - January 22, 2025: Graduate Trainee Program @ Salesflo
+- January 22, 2025: Data Analyst Trainee @ Data Science Dojo
 
 
 # Jobs Interviewed For:
