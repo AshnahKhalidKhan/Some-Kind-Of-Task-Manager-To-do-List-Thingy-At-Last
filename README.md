@@ -5,10 +5,10 @@ Priorities: Namaz/Roza, Quran, FYP, DevOps, ISE, Poetry, SAD, DAA, IELTS, GRE, L
 - ~Qaza Roza # 1~
 - ~Qaza Roza # 2~
 - ~Qaza Roza # 3~
-- Qaza Roza # 4
-- Qaza Roza # 5
-- Qaza Roza # 6
-- New Qaza Roza # 1 (Thursday)
+- ~Qaza Roza # 4~
+- ~Qaza Roza # 5~
+- ~Qaza Roza # 6~
+- ~New Qaza Roza # 1 (Thursday)~
 - ~New Qaza Roza # 2 (Friday)~
 - ~New Qaza Roza # 3 (Saturday)~
 - ~New Qaza Roza # 4 (Sunday)~
