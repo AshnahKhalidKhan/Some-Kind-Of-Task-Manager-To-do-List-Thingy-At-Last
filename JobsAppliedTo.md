@@ -55,6 +55,7 @@
 - January 22, 2025: IT Support @ Data Science Dojo
 - January 22, 2025: Graduate Trainee Program @ Salesflo
 - January 22, 2025: Data Analyst Trainee @ Data Science Dojo
+- February 1, 2025: NextGen Program @ Careem
 
 
 # Jobs Interviewed For:
