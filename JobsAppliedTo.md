@@ -56,6 +56,7 @@
 - January 22, 2025: Graduate Trainee Program @ Salesflo
 - January 22, 2025: Data Analyst Trainee @ Data Science Dojo
 - February 1, 2025: NextGen Program @ Careem
+- February 2, 2025: Software Engineer @ NielsenIQ
 
 
 # Jobs Interviewed For:
