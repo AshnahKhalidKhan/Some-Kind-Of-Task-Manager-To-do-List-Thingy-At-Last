@@ -57,6 +57,12 @@
 - January 22, 2025: Data Analyst Trainee @ Data Science Dojo
 - February 1, 2025: NextGen Program @ Careem
 - February 2, 2025: Software Engineer @ NielsenIQ
+- February 8, 2025: Full Stack Engineer @ Hirestaff.ai
+- February 8, 2025: DevOps Engineer @ Makro PRO
+- February 8, 2025: Software Engineer .NET @ Daraz
+- February 8, 2025: Software Engineer @ Contour Software
+- February 8, 2025: Software Engineer .NET @ Creative Chaos
+- February 8, 2025: Azure Data Engineer @ NorthBay Solutions
 
 
 # Jobs Interviewed For:
