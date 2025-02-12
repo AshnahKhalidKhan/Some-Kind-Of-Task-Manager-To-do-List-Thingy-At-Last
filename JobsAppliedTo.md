@@ -63,6 +63,7 @@
 - February 8, 2025: Software Engineer @ Contour Software
 - February 8, 2025: Software Engineer .NET @ Creative Chaos
 - February 8, 2025: Azure Data Engineer @ NorthBay Solutions
+- February 12, 2025: Java Developer @ HR Ways
 
 
 # Jobs Interviewed For:
