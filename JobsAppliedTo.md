@@ -65,6 +65,7 @@
 - February 8, 2025: Azure Data Engineer @ NorthBay Solutions
 - February 12, 2025: Java Developer @ HR Ways
 - February 15, 2025: Cloud Platform Intern @ Maximus
+- February 17, 2025: Software Engineer Intern @ Imperium Dynamics
 
 
 # Jobs Interviewed For:
@@ -75,7 +76,7 @@
 - May 16, 2024: Astera MTO In-person interview - Round 2
 - May 18, 2024: Royal Cyber Middleware Trainee Developer Technical Assessment
 - June 13, 2024: Gatronova SAP Trainee (IT) Trainee Program Interview
-
+- February 18, 2025: Offline Assessment - Sych.io
 
 # Jobs Started:
-- June 4, 2024: IT MT Office @ Astera
+- June 4, 2024: IT MT Officer @ Astera
