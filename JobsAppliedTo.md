@@ -77,6 +77,7 @@
 - May 18, 2024: Royal Cyber Middleware Trainee Developer Technical Assessment
 - June 13, 2024: Gatronova SAP Trainee (IT) Trainee Program Interview
 - February 18, 2025: Offline Assessment - Sych.io
+- February 20, 2025: Imperium Dynamiccs - Interview 
 
 # Jobs Started:
 - June 4, 2024: IT MT Officer @ Astera
