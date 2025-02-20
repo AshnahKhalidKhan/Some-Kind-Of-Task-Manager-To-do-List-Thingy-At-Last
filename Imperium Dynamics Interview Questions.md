@@ -1,0 +1,15 @@
+- Jugs Riddle - 5L 3L 4L
+- 30s Fuse Riddle
+- Algorithm to find a complement of a number without using a conditional statement
+- Algorithm to check if number is a prime number
+- Algorithm to find the median value in an array (without sorting it)
+- Difference between HTTP and HTTPS
+- Difference between SUM and SUMX in Power BI
+- Difference between Measure and Column in Power BI
+- How does Azure Log Analytics work?
+- How many triggers are there in Azure Functions?
+- What is a Docker image?
+- SQL query to find the second highest salary in a table of employee salaries
+- SQL query to find all names in a table that end with "za"
+- Tell me two different components in Power Automate
+- Can there be more than one trigger in a workflow?
