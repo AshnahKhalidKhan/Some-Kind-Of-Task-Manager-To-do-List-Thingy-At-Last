@@ -66,6 +66,17 @@
 - February 12, 2025: Java Developer @ HR Ways
 - February 15, 2025: Cloud Platform Intern @ Maximus
 - February 17, 2025: Software Engineer Intern @ Imperium Dynamics
+- February 23, 2025: Software Engineer @ Seso Inc
+- February 23, 2025: Software Engineer @ TigerGraph
+- February 23, 2025: Software Engineer, Product @ Miter
+- February 23, 2025: Software Engineer @ QA Wolf
+- February 23, 2025: Software Engineer, Flutter @ Headspace
+- February 23, 2025: Software Engineer - Cloud Engineering @ Corelight
+- February 23, 2025: Software Engineer @ Clerkie
+- February 23, 2025: Software Engineer @ Discourse
+- February 23, 2025: Software Engineer @ Doximity
+- February 23, 2025: Software Engineer @ Anagram
+- February 23, 2025: Software Engineer @ ScaleBridge
 
 
 # Jobs Interviewed For:
@@ -77,7 +88,8 @@
 - May 18, 2024: Royal Cyber Middleware Trainee Developer Technical Assessment
 - June 13, 2024: Gatronova SAP Trainee (IT) Trainee Program Interview
 - February 18, 2025: Offline Assessment - Sych.io
-- February 20, 2025: Imperium Dynamiccs - Interview 
+- February 20, 2025: Imperium Dynamiccs - Onsite Interview
+- February 24, 2025: Imperium Dynamics - Online Technical Interview
 
 # Jobs Started:
 - June 4, 2024: IT MT Officer @ Astera
