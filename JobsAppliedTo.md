@@ -77,6 +77,7 @@
 - February 23, 2025: Software Engineer @ Doximity
 - February 23, 2025: Software Engineer @ Anagram
 - February 23, 2025: Software Engineer @ ScaleBridge
+- February 28, 2025: Junior PHP Developer @ HR Ways
 
 
 # Jobs Interviewed For:
