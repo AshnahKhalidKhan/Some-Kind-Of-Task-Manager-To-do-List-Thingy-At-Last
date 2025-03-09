@@ -80,6 +80,9 @@
 - February 28, 2025: Junior PHP Developer @ HR Ways
 - March 9, 2025: Software & Mobile Application Innovator @ DIGGIT
 - March 9, 2025: Software Engineer @ Stingray Technologies
+- March 9, 2025: Software Engineer Backend @ Motive
+- March 9, 2025: Junior Data Engineer @ Intellias
+- March 9, 2025: Graduate Software Engineer @ Bending Spoons
 
 
 # Jobs Interviewed For:
