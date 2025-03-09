@@ -78,6 +78,8 @@
 - February 23, 2025: Software Engineer @ Anagram
 - February 23, 2025: Software Engineer @ ScaleBridge
 - February 28, 2025: Junior PHP Developer @ HR Ways
+- March 9, 2025: Software & Mobile Application Innovator @ DIGGIT
+- March 9, 2025: Software Engineer @ Stingray Technologies
 
 
 # Jobs Interviewed For:
